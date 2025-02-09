@@ -75,6 +75,7 @@ class HomeHourCardWidget extends StatelessWidget {
                     ),
                   ),
                   if (hasDiscount && canCalculeDiscount) ...{
+                    const SizedBox(width: 6),
                     Text(
                       period.valorTotal.toString().toBRL(),
                       style: const TextStyle(
