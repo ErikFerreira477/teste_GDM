@@ -1,2 +1,9 @@
 export './home_model.dart';
 export './get_all_motels_model.dart';
+export './categoria_itens_model.dart';
+export './desconto_model.dart';
+export './get_all_motels_data_model.dart';
+export './itens_model.dart';
+export './motel_model.dart';
+export './periodos_model.dart';
+export './suites_model.dart';

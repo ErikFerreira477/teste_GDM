@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:teste_gdm/app/core/core.dart';
 import 'package:teste_gdm/app/modules/home/home.dart';
-import 'package:teste_gdm/app/modules/home/presenter/widget/widget.dart';
 
 class HomeView extends StatefulWidget {
   const HomeView({super.key});

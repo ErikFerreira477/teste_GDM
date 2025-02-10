@@ -16,6 +16,9 @@ class HomeViewModel with ChangeNotifier {
   String get errorMessage => _homeModel.errorMessage;
   List<MotelModel> get motels => _homeModel.motels;
 
+  void changeMotels({required List<MotelModel> motels}) => _homeModel.motels = motels;
+  void changeHasError({required bool value}) => _homeModel.hasError = value;
+  void changeErrorMessage({required String message}) => _homeModel.errorMessage = message;
   void changeIsLoading({required bool value}) {
     _homeModel.isLoading = value;
     notifyListeners();
