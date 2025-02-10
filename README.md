@@ -6,7 +6,6 @@ Este repositório contém a implementação do teste técnico para a GDM. O proj
 
 As seguintes bibliotecas foram utilizadas no projeto:
 
-- **dartz**: Programação funcional em Dart.
 - **flutter_modular**: Gerenciamento de rota e injeção de dependência modular.
 - **http**: Requisições HTTP.
 - **provider**: Gerenciamento de estado.
