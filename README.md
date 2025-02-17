@@ -4,8 +4,10 @@ Este repositório contém a implementação do teste técnico para a GDM. O proj
 
 ## Demonstração
 
-![Tela Inicial](https://github.com/user-attachments/assets/12eb838d-54bf-442f-b313-4bf9ec388932)
-![Outra Tela](https://raw.githubusercontent.com/seu-usuario/teste_gdm/main/assets/outra_tela.png)
+[Tela Inicial]
+(https://github.com/user-attachments/assets/12eb838d-54bf-442f-b313-4bf9ec388932)
+[Imagens da suíte]
+(https://raw.githubusercontent.com/seu-usuario/teste_gdm/main/assets/outra_tela.png)
 
 🎥 **Veja o projeto em funcionamento:** [Assista ao vídeo](https://www.youtube.com/seu-video-link)
 
