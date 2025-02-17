@@ -2,6 +2,14 @@
 
 Este repositório contém a implementação do teste técnico para a GDM. O projeto foi desenvolvido utilizando Flutter, seguindo boas práticas de arquitetura limpa (Clean Architecture) e inspirado no padrão MVVM (Model-View-ViewModel).
 
+## Demonstração
+
+![Tela Inicial](![image](https://github.com/user-attachments/assets/12eb838d-54bf-442f-b313-4bf9ec388932)
+)  
+![Outra Tela](https://raw.githubusercontent.com/seu-usuario/teste_gdm/main/assets/outra_tela.png)
+
+🎥 **Veja o projeto em funcionamento:** [Assista ao vídeo](https://www.youtube.com/seu-video-link)
+
 ## Tecnologias e Bibliotecas Utilizadas
 
 As seguintes bibliotecas foram utilizadas no projeto:
@@ -15,12 +23,21 @@ As seguintes bibliotecas foram utilizadas no projeto:
 
 ## Desenvolvimento e Testes
 
-Para garantir a qualidade do código, utilizei ferramentas de lint e testes unitários com:
+Para garantir a qualidade do código, utilizei ferramentas de testes unitários com:
 
-- **flutter_lints**: Padrões de lint recomendados.
 - **build_runner**: Geração de código.
 - **mocktail**: Mocking para testes.
 - **modular_test**: Testes para flutter_modular.
+
+## Especificações da Tela
+
+O projeto foi desenvolvido e testado utilizando o emulador **Pixel 3a** com **Android 13** e não possui responsividade.  
+
+### Configurações do Emulador:
+- **Dispositivo**: Pixel 3a  
+- **Resolução**: 1080x2220 pixels  
+- **Densidade**: 440 dpi  
+- **Versão do Android**: API 33 (Android 13)  
 
 ## Como Executar o Projeto
 
