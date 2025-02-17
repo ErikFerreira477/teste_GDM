@@ -8,7 +8,7 @@ Este repositório contém a implementação do teste técnico para a GDM. O proj
 [Imagens da suíte](![image](https://github.com/user-attachments/assets/0846a773-714d-4e43-93ca-fb22fc1941b3)
 )
 
-🎥 **Veja o projeto em funcionamento:** [Assista ao vídeo](https://www.youtube.com/seu-video-link)
+🎥 **Veja o projeto em funcionamento:** [Assista ao vídeo]((https://drive.google.com/drive/folders/1nv1Ng2l7s-DHafleBOcBUtoyY5IdqsFO?usp=sharing))
 
 ## Tecnologias e Bibliotecas Utilizadas
 
